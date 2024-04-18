@@ -7,6 +7,10 @@
 - 💬 Ask me about **react,Next,Angular,Typescript,Tailwind**
 
 - 📫 How to reach me **hajra.1601059@gmail.com**
+- <p align="center">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-photo%2Fwoman-programmer-hijab-sits-computer-screen-looking-code-generative-ai_40015062.htm&psig=AOvVaw0N4UJ6CaiYgS2pLnxJHv6f&ust=1713513258905000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCZ5Lqky4UDFQAAAAAdAAAAABAF" width="350" title="hover text">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-photo%2Fwoman-programmer-hijab-sits-computer-screen-looking-code-generative-ai_40015062.htm&psig=AOvVaw0N4UJ6CaiYgS2pLnxJHv6f&ust=1713513258905000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCZ5Lqky4UDFQAAAAAdAAAAABAF" width="350" alt="accessibility text">
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
