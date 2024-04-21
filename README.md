@@ -5,13 +5,9 @@
 <h1 align="center">Hi 👋, I'm Hajra Buksh</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hajra269&label=Profile%20views&color=0e75b6&style=flat" alt="hajra269" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hajra269" alt="hajra269" /></a> </p>
-
 - 🌱 I’m currently learning **Electron js**
 
-- 💬 Ask me about **React,Next,Angular,Typescript,Tailwindd**
+- 💬 Ask me about **React,Next,Angular,Typescript,Tailwind**
 
 - 📫 How to reach me **hajra.1601059@gmail.com**
 
