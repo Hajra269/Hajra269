@@ -1,8 +1,7 @@
 # Hajra
+<img src="https://media.istockphoto.com/id/1306190794/vector/programmer-girl-working-on-the-laptop-programming-and-engineering-concept.jpg?s=612x612&w=0&k=20&c=SgBoKGaZRVOQRcKSR_ZRo46EQLlEEN_Jkq6NSd8d3H0=" width="350" title="Programmer Girl">
 <h1 align="center">Hi 👋, I'm Hajra</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
- <img src="https://github.com/Hajra269/Hajra269/assets/73758738/6d96fa39-e1d3-48e4-b48e-246479657818
-" width="350" title="hover text">
 - 🌱 I’m currently learning **Electron js**
 
 - 💬 Ask me about **react,Next,Angular,Typescript,Tailwind**
