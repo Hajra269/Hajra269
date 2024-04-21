@@ -1,5 +1,7 @@
 # Hajra
-<img src="https://media.istockphoto.com/id/1306190794/vector/programmer-girl-working-on-the-laptop-programming-and-engineering-concept.jpg?s=612x612&w=0&k=20&c=SgBoKGaZRVOQRcKSR_ZRo46EQLlEEN_Jkq6NSd8d3H0=" width="350" title="Programmer Girl">
+<div align="center">
+  <img src="https://media.istockphoto.com/id/1306190794/vector/programmer-girl-working-on-the-laptop-programming-and-engineering-concept.jpg?s=612x612&w=0&k=20&c=SgBoKGaZRVOQRcKSR_ZRo46EQLlEEN_Jkq6NSd8d3H0=" style="width: 100%; height: auto;" title="Programmer Girl">
+</div>
 <h1 align="center">Hi 👋, I'm Hajra</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 - 🌱 I’m currently learning **Electron js**
