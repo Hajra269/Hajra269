@@ -1,15 +1,9 @@
+<div align="center">
+   <img src="https://media.istockphoto.com/id/1306190794/vector/programmer-girl-working-on-the-laptop-programming-and-engineering-concept.jpg?s=612x612&w=0&k=20&c=SgBoKGaZRVOQRcKSR_ZRo46EQLlEEN_Jkq6NSd8d3H0=" style="width: 100%; height: auto;" title="Programmer Girl">
+ </div>
+ 
 <h1 align="center">Hi 👋, I'm Hajra Buksh</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=hajra269&label=Profile%20Views&color=blue&style=plastic" alt="Profile views" />
-</p>
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=hajra269&theme=onedark" alt="GitHub Trophies" />
-</p>
-
-
 - 🌱 I’m currently learning **Electron js**
 
 - 👨‍💻 All of my projects are available at [https://developer-portfolio-evw2.vercel.app/](https://developer-portfolio-evw2.vercel.app/)
