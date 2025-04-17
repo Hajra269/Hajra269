@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="https://www.google.com/imgres?q=ai%20images%20girl%20for%20developers&imgurl=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fprogrammer-developer-flat-style-illustration-white-background-isolated-character-ai-generated-335094652.jpg&imgrefurl=https%3A%2F%2Fwww.dreamstime.com%2Fphotos-images%2Fsoftware-developer-cartoon.html&docid=wmSWRb5IFjv9UM&tbnid=H1VwoTSchaXfzM&vet=12ahUKEwjQ8O3n9d6MAxVMKvsDHcj-KFIQM3oECHUQAA..i&w=800&h=800&hcb=2&ved=2ahUKEwjQ8O3n9d6MAxVMKvsDHcj-KFIQM3oECHUQAA" style="width: 100%; height: auto;" title="Programmer Girl">
+   <img src="https://media.istockphoto.com/id/1306190794/vector/programmer-girl-working-on-the-laptop-programming-and-engineering-concept.jpg?s=612x612&w=0&k=20&c=SgBoKGaZRVOQRcKSR_ZRo46EQLlEEN_Jkq6NSd8d3H0=" style="width: 100%; height: auto;" title="Programmer Girl">
  </div>
  
  
