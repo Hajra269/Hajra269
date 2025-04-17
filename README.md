@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hajra Buksh</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hajra269&label=Profile%20views&color=0e75b6&style=flat" alt="hajra269" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hajra269" alt="hajra269" /></a> </p>
+
 - 🌱 I’m currently learning **Electron js**
 
 - 👨‍💻 All of my projects are available at [https://developer-portfolio-evw2.vercel.app/](https://developer-portfolio-evw2.vercel.app/)
