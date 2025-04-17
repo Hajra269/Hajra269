@@ -1,15 +1,15 @@
-# Hajra
-<div align="center">
-  <img src="https://media.istockphoto.com/id/1306190794/vector/programmer-girl-working-on-the-laptop-programming-and-engineering-concept.jpg?s=612x612&w=0&k=20&c=SgBoKGaZRVOQRcKSR_ZRo46EQLlEEN_Jkq6NSd8d3H0=" style="width: 100%; height: auto;" title="Programmer Girl">
-</div>
 <h1 align="center">Hi 👋, I'm Hajra Buksh</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 - 🌱 I’m currently learning **Electron js**
 
-- 💬 Ask me about **React,Next,Angular,Typescript,Tailwind**
+- 👨‍💻 All of my projects are available at [https://developer-portfolio-evw2.vercel.app/](https://developer-portfolio-evw2.vercel.app/)
+
+- 💬 Ask me about **React,Next,Angular,Typescript,Tailwindd**
 
 - 📫 How to reach me **hajra.1601059@gmail.com**
+
+- 📄 Know about my experiences [https://developer-portfolio-evw2.vercel.app/](https://developer-portfolio-evw2.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,4 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hajra269&show_icons=true&locale=en" alt="hajra269" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hajra269&" alt="hajra269" /></p>
-
